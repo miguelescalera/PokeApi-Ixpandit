@@ -1,0 +1,10 @@
+.page-icon {
+    background-color: #1976d2 !important;
+    color: white !important;
+    width: 60 !important;
+    height: 60 !important;
+}
+
+.page-icon:hover {
+    background-color: darkblue !important;
+}
